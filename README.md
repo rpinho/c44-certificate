@@ -1,6 +1,6 @@
 # A degree-three local-weight cap and an improved relevant-variable bound
 
-**Newer result:** [fourier-granularity/](fourier-granularity/) proves C₄₄ ≤ 4.1225323803 (unrefereed, 30 October 2026).
+**Newer result:** [fourier-granularity/](fourier-granularity/) proves C₄₄ ≤ 4.1225323803 (unrefereed, 30 October 2026). Preprint: [hexagon:2610.00694](https://hexagonmath.org/2610.00694).
 
 [Merged into Tao's optimization-constants table](https://github.com/teorth/optimizationproblems/pull/258)
 on October 26, 2026 (UTC). The result remains unrefereed; table inclusion is not expert peer review or formal verification.
