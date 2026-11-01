@@ -1,6 +1,8 @@
 # A degree-three local-weight cap and an improved relevant-variable bound
 
-**Newest result:** [local-degree-caps/](local-degree-caps/) proves C₄₄ < 3.9819073803 (unrefereed, 1 November 2026).
+**Newest result:** [reed-muller-caps/](reed-muller-caps/) proves C₄₄ < 2.1974348818 (unrefereed, 1 November 2026).
+
+**Earlier result:** [local-degree-caps/](local-degree-caps/) proves C₄₄ < 3.9819073803 (unrefereed, 1 November 2026).
 
 **Earlier result:** [fourier-granularity/](fourier-granularity/) proves C₄₄ ≤ 4.1225323803 (unrefereed, 30 October 2026). Preprint: [hexagon:2610.00694](https://hexagonmath.org/2610.00694).
 
