@@ -1,5 +1,7 @@
 # A degree-three local-weight cap and an improved relevant-variable bound
 
+> **Archived.** This repository has moved to [rpinho/math-certificates/c44](https://github.com/rpinho/math-certificates/tree/main/c44). It stays online read-only, so existing links and pinned commits keep working.
+
 **Newest result:** [reed-muller-caps/](reed-muller-caps/) proves C₄₄ < 2.1974348818 (unrefereed, 1 November 2026).
 
 **Earlier result:** [local-degree-caps/](local-degree-caps/) proves C₄₄ < 3.9819073803 (unrefereed, 1 November 2026).
